@@ -4,14 +4,26 @@
 
 ## 💫 About Me
 
-- 🎓 Studying Computer Science at Université de Bourgogne (Licence 3)
-- 🔐 Interested in network security, ethical hacking, and system hardening
+- 🎓 Studying Computer Science at University of Bourgogne (Licence 3)
+- 🔐 Interested in network and cyber security
 - 🤖 Exploring AI & Data Science — from models to meaningful insights
 - 🌱 Always learning, always building
 
-## 🛠️ Tech Interests
+## 💻 Tech Stack
 
-`Networks & Protocols` `Cybersecurity` `Machine Learning` `Data Science` `Python` `Linux`
+**Programming Languages**
+`Python` `C` `Java` `SQL` `PL/SQL` `Javascript` `PHP` 
+
+**Data Science & Machine Learning**
+`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Jupyter` `Seaborn`
+
+**Web & Frameworks**
+`Vue.js` `Angular` `HTML/CSS` `JavaScript`
+
+**Databases & Tools**
+`MySQL` `PostgreSQL` `MongoDB` `Git` `OpenGL`
+**Network**
+`Linux`  `LDAP` `DHCP` `Samba` `DNS` `Apache` `VirtualBox` `iptables`
 
 ## 📫 Reach Me
 
