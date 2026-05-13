@@ -4,7 +4,7 @@
 
 ## 💫 About Me
 
-- 🎓 Studying Computer Science at University of Bourgogne (Licence 3)
+- 🎓 Studying Computer Science at University of Bourgogne (3rd Year)
 - 🔐 Interested in network and cyber security
 - 🤖 Exploring AI & Data Science — from models to meaningful insights
 - 🌱 Always learning, always building
