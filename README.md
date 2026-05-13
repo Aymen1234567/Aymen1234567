@@ -12,16 +12,16 @@
 ## 💻 Tech Stack
 
 **Programming Languages**
-`Python` `C` `Java` `SQL` `PL/SQL` `Javascript` `PHP` 
+`Python` `C` `C++` `Java` `SQL` `PL/SQL` ` 
 
 **Data Science & Machine Learning**
 `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Jupyter` `Seaborn`
 
 **Web & Frameworks**
-`Vue.js` `Angular` `HTML/CSS` `JavaScript`
+`Vue.js` `Angular` `HTML/CSS` `Jquery` `Javascript` `PHP` `Flutter`
 
 **Databases & Tools**
-`MySQL` `PostgreSQL` `MongoDB` `Git` `OpenGL`
+`MySQL` `PostgreSQL` `MongoDB` `Git` `GitHub` `GitLap` `OpenGL` `Jupyter`  `Android Studio`
 
 **Network**
 `Linux`  `LDAP` `DHCP` `Samba` `DNS` `Apache` `VirtualBox` `iptables`
